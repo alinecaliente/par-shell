@@ -1,0 +1,6 @@
+fibonacci 10000
+fibonacci 
+fibonacci 10002
+    
+ola
+exit

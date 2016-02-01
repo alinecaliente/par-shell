@@ -1,0 +1,3 @@
+/afs/ist.utl.pt/users/5/1/ist173151/pasta/fibonacci 500
+fibonacci 100000
+exit
